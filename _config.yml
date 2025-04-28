@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: bennos-theme
+description: "A theme for people like Ben."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
